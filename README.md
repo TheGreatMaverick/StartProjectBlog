@@ -1,2 +1,3 @@
-# NewViteApp
-Create new VIte app
+# StartProjectBlog
+
+Module 3. Frontend.Practice / 1.StartProject / Task
